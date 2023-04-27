@@ -1,0 +1,25 @@
+{
+  "name": "node_mandatory_2",
+  "version": "0.0.1",
+  "description": "Nodejs mandatory 2 assignment for Full-stack development with NodeJS elective",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+   "devStart": "nodemon server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "nodemon",
+    "ssr"
+  ],
+  "author": "Battal R.",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.22"
+  }
+}
